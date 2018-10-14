@@ -1,0 +1,14 @@
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.csprojAssemblyReference.cache
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.csproj.CoreCompileInputs.cache
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.RazorAssemblyInfo.cache
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.RazorAssemblyInfo.cs
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.AssemblyInfoInputs.cache
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.AssemblyInfo.cs
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.RazorTargetAssemblyInfo.cache
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.dll
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\obj\Debug\netcoreapp2.1\Todo.pdb
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\bin\Debug\netcoreapp2.1\Todo.deps.json
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\bin\Debug\netcoreapp2.1\Todo.runtimeconfig.json
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\bin\Debug\netcoreapp2.1\Todo.runtimeconfig.dev.json
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\bin\Debug\netcoreapp2.1\Todo.dll
+C:\Users\saksh\Documents\Work\brandollo\t2\Todo\dotnet-server\Todo\Todo\bin\Debug\netcoreapp2.1\Todo.pdb
